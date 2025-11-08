@@ -1,6 +1,6 @@
 # Goodness Akuba – Backend Developer
 
-Welcome to my portfolio! I specialize in backend development, building robust and scalable server-side applications. My main stack includes Node.js, Express, MongoDB, and JavaScript.
+Welcome to my portfolio! I specialize in backend development, building robust and scalable backend architecture. 
 
 ---
 
@@ -12,9 +12,9 @@ Hi! I'm Goodness Akuba, a passionate backend developer with a knack for creating
 
 ## 🛠️ Skills
 
-- **Languages:** JavaScript (Node.js)
-- **Frameworks:** Express.js
-- **Databases:** MongoDB
+- **Languages:** Python
+- **Frameworks:** Django, Fastapi 
+- **Databases:** MongoDB, PostgreSQL
 - **Version Control:** Git & GitHub
 - **Other:** RESTful API Development, Backend Architecture, Problem Solving
 
