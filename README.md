@@ -22,8 +22,8 @@ Hi! I'm Goodness Akuba, a passionate backend developer with a knack for creating
 
 ## 📫 Contact Me
 
-- **Email:** ojonugwagoodness6@gmail.com
-- **LinkedIn:** [akuba-goodness-ag-64651036a](https://www.linkedin.com/in/akuba-goodness-ag-64651036a/)
+- **Email:** goodnessakuba1708@gmail.com 
+- **LinkedIn:**https://www.linkedin.com/in/goodness-akuba-4060a3391?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 - **Twitter:**
 https://x.com/bit_think21799?t=VS1ISkZ_l9mVZ1i93IOB3A&s=09
 ---
