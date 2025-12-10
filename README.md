@@ -22,7 +22,7 @@ Building **Book Network** - A social platform for book lovers with semantic sear
 
 *These taught me: data structures, control flow, functions, user input*
 
-### Current Project
+### Future Project
 **Book Network Platform** (In Progress)
 - Full-stack web application
 - Users can discover books, write reviews, create reading lists
@@ -31,14 +31,14 @@ Building **Book Network** - A social platform for book lovers with semantic sear
 
 ## 🛠️ Skills I'm Developing
 
-**Languages:** Python, JavaScript  
+**Languages:** Python,semantics search, Django, etc. 
 **Backend:** Django, REST APIs, PostgreSQL, Authentication (JWT)  
 **Frontend:** React, Hooks, Routing, State Management  
 **AI/ML:** Natural Language Processing, Vector Embeddings  
 **Other:** Git/GitHub, Linux, Command Line, Problem Solving
 
 ## 📖 Learning Resources I'm Using
-- Corey Schafer (Django tutorials - YouTube)
+- Books, w3school.
 - freeCodeCamp (React course)
 - Sentence Transformers documentation
 - Django & React official docs
@@ -49,7 +49,7 @@ Building **Book Network** - A social platform for book lovers with semantic sear
 
 I don't just watch tutorials - I code along, break things, fix them, and understand WHY it works.
 
-## 📅 Milestones
+## 📅 Milestones and future plans
 
 - [x] **Oct 2025:** Completed Python fundamentals, built CLI projects
 - [ ] **Dec 2025:** Master Django & REST APIs
@@ -70,8 +70,8 @@ After Book Network launches, I plan to:
 - Build a portfolio website
 - Contribute to open source
 - Start freelancing on Upwork/Fiverr
-- Build other products
-
+- Build an educational platform 
+- Contribute to solving the global goals.
 ## 📫 Let's Connect!
 - **GitHub:** [@goo-dness] (you're already here!)
 - **Email:**  [goodnessakuba1708@gmail.com]
