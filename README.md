@@ -1,7 +1,7 @@
 🚀 My Developer Learning Journey
 
 ## 👋 About Me
-Self-taught developer from Nigeria, currently mastering full-stack web development, system engineering and network programming. 
+Self-taught developer from Nigeria, currently mastering backend development, system engineering and network programming. 
 I learn by building - every project teaches me something new.
 
 ## 🎯 Current Mission (April 2026- June 2026)
