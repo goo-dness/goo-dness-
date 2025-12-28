@@ -32,7 +32,7 @@ Building **Book Network** - A social platform for book lovers with semantic sear
 ## 🛠️ Skills I'm Developing
 
 **Languages:** Python,semantics search, Fastapi, etc. 
-**Backend:** Django, REST APIs, PostgreSQL, Authentication (JWT)  
+**Backend:** Fastapi, REST APIs, PostgreSQL, Authentication (JWT)  
 **Frontend:** React, Hooks, Routing, State Management  
 **AI/ML:** Natural Language Processing, Vector Embeddings  
 **Other:** Git/GitHub, Linux, Command Line, Problem Solving
@@ -52,7 +52,7 @@ I don't just watch tutorials - I code along, break things, fix them, and underst
 ## 📅 Milestones and future plans
 
 - [x] **Oct 2025:** Completed Python fundamentals, built CLI projects
-- [ ] **Dec 2025:** Master Django & REST APIs
+- [ ] **Dec 2025:** Master Fastapi 
 - [ ] **Feb 2026:** Learn React, connect frontend to backend
 - [ ] **May 2026:** Implement semantic search with ML
 - [ ] **June 2026:** Deploy Book Network, buy laptop (₦400k saved!)
