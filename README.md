@@ -1,41 +1,91 @@
+ Hi, I'm Goodness
+
+Self-taught backend developer building educational space technology for African students.
+
 🚀 My Developer Learning Journey
 
-## 👋 About Me
-Self-taught developer from Nigeria, currently mastering backend development, system engineering and network programming. 
-I learn by building - every project teaches me something new.
+19-year-old Nigerian developer teaching myself to code while working as a security guard. Currently coding on my phone using Termux + Vim, laptop arriving April 2026.
 
-## 🎯 Current Mission (April 2026- June 2026)
-Building **Book Network** - A social platform for book lovers with semantic search powered by AI.
+**Mission:** Make space education accessible to African students and build the world modt advanced research centre.
 
-**Tech Stack:**
-- **Backend:** Python, Fastapi, PostgreSQL
-- **Frontend:** React, JavaScript, HTML/CSS
-- **AI/ML:** Sentence Transformers (for semantic search)
-- **Tools:** Git, Linux, VS Code
+💻 **Focus:** Backend systems, APIs, educational platforms  
+🎯 **Current Project:** Space Catalog - Catalog of celestial objects with Nigerian context  
+📚 **Learning:** Python, FastAPI, PostgreSQL, System Architecture  
+🗓️ **2026 Goals:** Ship Space Catalog V1, Start freelancing, Take NECO GCE, Enter University 2027
 
-## 📚 What I've Built So Far
+🛠️ Tech Stack
 
-### Small Projects (Learning Phase)
+ Languages & Core
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+### Backend & Frameworks
+
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
+
+
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+
+
+### Tools & Environment
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+
+
+
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+
+### Frontend
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+ 📚 What I've Built So Far
+
+ Small Projects (Learning Phase)
 - **Contacts Manager** - CLI app for managing contacts (Python)
 - **Quiz Game** - Interactive quiz with scoring (Python)
 - **Number Guessing Game** - Classic game with hints (Python)
 
 *These taught me: data structures, control flow, functions, user input*
-
-### Future Project
-**Book Network Platform** (In Progress)
-- Full-stack web application
-- Users can discover books, write reviews, create reading lists
-- **Unique feature:** Semantic search that understands meaning, not just keywords
-- Expected launch: June 2026
-
-## 🛠️ Skills I'm Developing
-
-**Languages:** Python,semantics search, Fastapi, etc. 
-**Backend:** Fastapi, REST APIs, PostgreSQL, Authentication (JWT)  
-**Frontend:** React, Hooks, Routing, State Management  
-**AI/ML:** Natural Language Processing, Vector Embeddings  
-**Other:** Git/GitHub, Linux, Command Line, Problem Solving
 
 ## 📖 Learning Resources I'm Using
 - Books, w3school.
@@ -49,29 +99,6 @@ Building **Book Network** - A social platform for book lovers with semantic sear
 
 I don't just watch tutorials - I code along, break things, fix them, and understand WHY it works.
 
-## 📅 Milestones and future plans
-
-- [x] **Oct 2025:** Completed Python fundamentals, built CLI projects
-- [ ] **Dec 2025:** Master Fastapi 
-- [ ] **Feb 2026:** Learn React, connect frontend to backend
-- [ ] **May 2026:** Implement semantic search with ML
-- [ ] **June 2026:** Deploy Book Network, buy laptop (₦400k saved!)
-- [ ] **May 2026:** Start freelancing
-- [ ] **Jun 2026:** First remote job or client
-
-## 🌱 Currently Learning
-- Fastapi (building APIs)
-- React fundamentals (components, state, hooks)
-- PostgreSQL with pgvector (for storing embeddings)
-- Machine Learning basics (sentence transformers)
-
-## 💡 What's Next?
-After Book Network launches, I plan to:
-- Build a portfolio website
-- Contribute to open source
-- Start freelancing on Upwork/Fiverr
-- Build an educational platform 
-- Contribute to solving the global goals.
 ## 📫 Let's Connect!
 - **GitHub:** [@goo-dness] (you're already here!)
 - **Email:**  [goodnessakuba1708@gmail.com]
