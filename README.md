@@ -87,6 +87,8 @@ Self-taught backend developer building educational space technology for African 
 - **Quiz Game** - Interactive quiz with scoring (Python)
 - **Number Guessing Game** - Classic game with hints (Python)
 - **Space Catalog** - Space education platform.  Here is the link - https://space-catalog.com.ng
+-**Matrix** - An a local AI agent i built to solve my data problems using ollama and qwen2.5-coder:3b. 
+
 
 *These taught me: data structures, control flow, functions, user input*
 
