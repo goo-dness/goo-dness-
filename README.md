@@ -6,12 +6,14 @@ Self-taught backend developer building educational space technology for African 
 
 19-year-old Nigerian developer teaching myself to code while working as a security guard. Currently coding on my phone using Termux + Vim, laptop arriving April 2026.
 
-**Mission:** Make space education accessible to African students and build the world modt advanced research centre.
+**Mission:** Make space education accessible to African students and build the world most advanced research centre.
 
 💻 **Focus:** Backend systems, APIs, educational platforms  
-🎯 **Current Project:** Space Catalog - Catalog of celestial objects with Nigerian context  
+🎯 **Current Project:** Sankofa Engine- A computational knowledge engine thT reasons over African data. Helps researchers and students across all domains. 
 📚 **Learning:** Python, FastAPI, PostgreSQL, System Architecture  
 🗓️ **2026 Goals:** Ship Space Catalog V1, Start freelancing, Take NECO GCE, Enter University 2027
+
+**Space Catalog:** Is Deployed and live at https://space-catalog.com.ng 
 
 🛠️ Tech Stack
 
@@ -84,15 +86,16 @@ Self-taught backend developer building educational space technology for African 
 - **Contacts Manager** - CLI app for managing contacts (Python)
 - **Quiz Game** - Interactive quiz with scoring (Python)
 - **Number Guessing Game** - Classic game with hints (Python)
+- **Space Catalog** - Space education platform.  Here is the link - https://space-catalog.com.ng
 
 *These taught me: data structures, control flow, functions, user input*
 
 ## 📖 Learning Resources I'm Using
-- Books, w3school.
-- freeCodeCamp (React course)
+- Books.
 - Sentence Transformers documentation
-- Fastapi & React official docs
-- Stack Overflow (when I'm stuck!)
+- FastAPI
+- Documentations 
+- AI
 
 ## 🎓 My Learning Philosophy
 *"Build to learn, not learn to build."*
@@ -108,6 +111,6 @@ Open to collaboration, learning opportunities, and connecting with other develop
 
 ---
 
-**Status:** 🟢 Actively learning and building (Dec 2025)
+**Status:** 🟢 Actively learning and building (Dec 2026)
 
 *"The best time to start was yesterday. The second best time is now."*!
